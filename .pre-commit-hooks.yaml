@@ -1,5 +1,5 @@
 -   id: mypy
-    name: mypy
+    name: 'mypy'
     description: ''
     entry: mypy
     language: python
